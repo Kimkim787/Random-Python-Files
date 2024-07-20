@@ -1,0 +1,2 @@
+This will overwrite the text file. From write_file.py
+Text appended from write_file.py
